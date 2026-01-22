@@ -1,2 +1,11 @@
-Data for UTQ project
+Data processing notebooks and analysis for project examining how environmental changes near Utqiagvik, Alaska may impact whaling activities
+Alice DuVivier (duvivier@ucar.edu)
 January 2026
+
+Data processing is for four datasets:
+- CESM1-LE
+- CESM2-LE
+- CESM2-CMIP5
+- MESACLIP
+
+Data analysis is for figures for the paper draft
