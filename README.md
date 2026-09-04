@@ -1,4 +1,4 @@
-Updated April 2026
+Updated September 2026
 Alice DuVivier (duvivier@ucar.edu)
 
 [![DOI](https://zenodo.org/badge/1139903175.svg)](https://doi.org/10.5281/zenodo.19710282)
@@ -10,6 +10,9 @@ Data processing is for four datasets:
 - CESM2-LE
 - CESM2-CMIP5
 - MESACLIP
+- CESM2-SSP1.26
+- CESM2-SSP2.45
+- CESM2-SSP5.85
 
 Data analysis is for figures for the manuscript
 
